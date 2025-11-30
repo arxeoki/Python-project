@@ -8,7 +8,7 @@ diabetes diagnosis.
 
 To run this project, you need:
 
-Python 3.11.5
+Python 3.11.5  
 All required Python libraries listed in requirements.txt
 
 ## Installation and Running the Project
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 python src/main.py
 
-Author 
-Timur Brevnov student of Msc Data Science for Economics and Health
+Author  
+Timur Brevnov student of Msc Data Science for Economics and Health  
 University of Milan
 
